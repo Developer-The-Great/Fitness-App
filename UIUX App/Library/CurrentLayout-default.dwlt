@@ -343,14 +343,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\3\Fitness-App\UIUX App
+  m_LastProjectPath: D:\Documents\kuliah bro\Year 2\2nd Quartile\UI UX Advanced\asdf\Fitness-App\UIUX
+    App
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e2310000
-    m_LastClickedID: 12770
-    m_ExpandedIDs: 00000000e2310000523200006233000000ca9a3bffffff7f
+    m_SelectedIDs: 1e300000
+    m_LastClickedID: 12318
+    m_ExpandedIDs: 000000001e300000a63000008e32000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e2310000
+    m_ExpandedIDs: 000000001e300000a63000008e320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -501,23 +502,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1a360000
-      m_LastClickedID: 13850
-      m_ExpandedIDs: e0f4ffff0c36000024360000283600002c360000303600003a36000046360000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: b4f8fffff4faffff623500006c350000863500008a35000092350000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Button
-        m_OriginalName: Button
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 13850
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -563,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 728.9685, y: 425.68976, z: -78.85579}
+    m_Target: {x: 1601.0516, y: 338.20264, z: -65}
     speed: 2
-    m_Value: {x: 727.3701, y: 427.79193, z: -75.30802}
+    m_Value: {x: 1601.0516, y: 338.20264, z: -65}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -598,9 +599,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 823.3906
+    m_Target: 752.14966
     speed: 2
-    m_Value: 787.9336
+    m_Value: 787.59125
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -663,10 +664,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -766
-    m_HBaseRangeMax: 766
-    m_VBaseRangeMin: -386.5
-    m_VBaseRangeMax: 386.5
+    m_HBaseRangeMin: -437
+    m_HBaseRangeMax: 437
+    m_VBaseRangeMin: -204
+    m_VBaseRangeMax: 204
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -686,7 +687,7 @@ MonoBehaviour:
       y: 17
       width: 874
       height: 408
-    m_Scale: {x: 0.6929348, y: 0.6929348}
+    m_Scale: {x: 1, y: 1}
     m_Translation: {x: 437, y: 204}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -699,10 +700,10 @@ MonoBehaviour:
       width: 1261.3019
       height: 588.8
     m_MinimalGUI: 1
-  m_defaultScale: 0.7082201
+  m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1092.5, y: 531.25}
+  m_LastWindowPixelSize: {x: 874, y: 425}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
