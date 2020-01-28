@@ -551,7 +551,7 @@ MonoBehaviour:
       width: 319
       height: 556
     m_MinimalGUI: 1
-  m_defaultScale: 1
+  m_defaultScale: 0.7863451
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 638, y: 1146}
